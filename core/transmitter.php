@@ -1,6 +1,6 @@
 <?php
 
-function import($type)
+function importfile($type)
 {
     switch ($type) {
          case 'css':

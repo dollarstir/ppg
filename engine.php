@@ -18,7 +18,7 @@ $router = new Router([
 
 
     new Route(
-        '/dashboard',
+        '/home',
         function ($context) {
            
             return Viewer::view('app/view/index.php', $context);
@@ -26,10 +26,10 @@ $router = new Router([
     ),
 
     new Route(
-        '/buy-sell',
+        '/about',
         function ($context) {
            
-            return Viewer::view('app/view/buy_sell.php', $context);
+            return Viewer::view('app/view/about.php', $context);
         }
     ),
 

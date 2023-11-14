@@ -8,3 +8,15 @@ function involve($file)
         return require __DIR__.'/../fragement/'.$file.'.php';
     }
 }
+
+
+function import($file)
+{
+    if (strpos($file, '.php') !== false) {
+        return require __DIR__.'/../'.$file;
+    } else {
+        return require __DIR__.'/../'.$file.'.php';
+    }
+}
+
+
