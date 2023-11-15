@@ -34,10 +34,10 @@ $router = new Router([
     ),
 
     new Route(
-        '/my-orders',
+        '/causes',
         function ($context) {
            
-            return Viewer::view('app/view/my_orders.php', $context);
+            return Viewer::view('app/view/causes-grid.php', $context);
         }
 
     ),

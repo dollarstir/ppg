@@ -1,86 +1,9 @@
 <?php 
-  import('app/view/header');
+
+  import('app/view/components/header');
+  import('app/view/components/menus');
   ?>
 
-
-
-	<nav class="mainmenu-area stricky">
-		<div class="container">
-			<div class="navigation pull-left">
-				<div class="nav-header">
-					<ul>
-						<li class="dropdown">
-							<a href="#">Home</a>
-							<ul class="submenu">
-								<li><a href="index-2.html">Home One</a></li>
-								<li><a href="index2.html">Home Two</a></li>
-							</ul>
-						</li>
-						<li><a href="about.html">About</a></li>						
-						<li class="dropdown">
-							<a href="#">Causes</a>
-							<ul class="submenu">
-								<li><a href="causes-grid.html">Causes Grid</a></li>
-								<li><a href="causes-list.html">Causes List</a></li>
-								<li><a href="causes-single.html">Single Cause</a></li>
-							</ul>
-						</li>						
-						<li class="dropdown">
-							<a href="#">Events</a>
-							<ul class="submenu">
-								<li><a href="events-grid.html">Events Grid</a></li>
-								<li><a href="events-list.html">Events List</a></li>
-								<li><a href="events-single.html">Event Single</a></li>
-							</ul>
-						</li>
-						<li class="dropdown">
-							<a href="#">Volunteer</a>
-							<ul class="submenu">
-								<li><a href="volunteer-style-one.html">Volunteer Style One</a></li>
-								<li><a href="volunteer-style-two.html">Volunteer Style Two</a></li>
-								<li><a href="volunteer-profile.html">Volunteer Profile</a></li>
-							</ul>
-						</li>
-						<li class="dropdown">
-							<a href="#">Gallery</a>
-							<ul class="submenu">
-								<li><a href="gallery-style-one.html">Gallery Style One</a></li>
-								<li><a href="gallery-style-two.html">Gallery Style Two</a></li>
-								<li><a href="gallery-style-three.html">Gallery Style Three</a></li>
-							</ul>
-						</li>
-						<li class="dropdown">
-							<a href="#">Pages</a>
-							<ul class="submenu">
-								<li><a href="donations.html">Donation</a></li>
-								<li><a href="faq.html">FAQ</a></li>
-							</ul>
-						</li>
-						<li class="dropdown">
-							<a href="#">Blog</a>
-							<ul class="submenu">
-								<li><a href="blog-style-one.html">Blog Style One</a></li>
-								<li><a href="blog-style-two.html">Blog Style Two</a></li>
-								<li><a href="blog-details.html">Blog Details</a></li>
-							</ul>
-						</li>
-						<li><a href="contact.html">Contact</a></li>
-					</ul>
-				</div>
-				<div class="nav-footer">
-					<button><i class="fa fa-bars"></i></button>
-				</div>
-			</div>
-			<div class="search-box pull-right">
-				<form action="#">
-					<input type="text" placeholder="Search...">
-					<button type="submit"><i class="fa fa-search"></i></button>
-				</form>
-			</div>
-		</div>
-	</nav> <!-- /.mainmenu-area -->
-
-	
 	<section class="inner-header">
 		<div class="container">
 			<div class="row">
@@ -110,17 +33,20 @@
 								<span class="inner"></span>
 							</span>
 						</div>
-						<h3>We Provide Worldwide Charity <br> Service Since 1978</h3>
+						<!-- <h3>We Provide Worldwide Charity <br> Service Since 1978</h3> -->
 						<br>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem loremIpsum has been the industry's </p>
+						<p>Passion Planet Ghana (PPG) is a non-governmental community organization with generational initiatives to help nurture talented and gifted children. We also help these children to develop, position, nurture so as to change other children in the societies.</p>
 						<br>
-						<p>since the 1500s, when an un known printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,</p>
+						<p>We started the organization in May, 2021 at Gomoa Potsin with some children who usually come for help with their homework.</p>
 						<br>
-						<a href="about.html" class="thm-btn">Read More</a>
+						<p>Though Passion Planet Ghana has been our very important vision, we lacked resources for the organization until we had Mr Michael O'Neil and his beautiful wife Marysa O'Neil who admitted to support us. They helped us to get items like tables and chairs,reading books,soccer balls,soccer Jerseys,exercise books,pencils,pens etc.
+							These items were very helpful because we needed them most at that time.
+							</p>
+						<!-- <a href="about.html" class="thm-btn">Read More</a> -->
 					</div>
 				</div>
 				<div class="col-md-7 hidden-md text-right">
-					<img src="img/resources/about-1.jpg" alt="Awesome Image"/>
+					<img src="app/view/img/resources/about-1.jpg" alt="Awesome Image"/>
 				</div>
 			</div>
 		</div>
@@ -348,13 +274,13 @@
 				<div class="col-md-6 hidden-md">
 					<div class="img-masonary">
 						<div class="img-w1">
-							<img src="img/faq/1.jpg" height="450" width="280" alt="">
+							<img src="app/view/img/faq/1.jpg" height="450" width="280" alt="">
 						</div>
 						<div class="img-w1 img-h1">
-							<img src="img/faq/2.jpg" height="450" width="280" alt="">
+							<img src="app/view/img/faq/2.jpg" height="450" width="280" alt="">
 						</div>
 						<div class="img-w1 img-h1">
-							<img src="img/faq/3.jpg" height="450" width="280" alt="">
+							<img src="app/view/img/faq/3.jpg" height="450" width="280" alt="">
 						</div>
 					</div>
 				</div>
@@ -410,7 +336,7 @@
 					<div class="item">
 						<div class="single-team-member">
 							<div class="img-box">
-								<img src="img/team/1.jpg" alt="">
+								<img src="app/view/img/team/1.jpg" alt="">
 								<div class="overlay">
 									<div class="box">
 										<div class="content">
@@ -433,7 +359,7 @@
 					<div class="item">
 						<div class="single-team-member">
 							<div class="img-box">
-								<img src="img/team/2.jpg" alt="">
+								<img src="app/view/img/team/2.jpg" alt="">
 								<div class="overlay">
 									<div class="box">
 										<div class="content">
@@ -456,7 +382,7 @@
 					<div class="item">
 						<div class="single-team-member">
 							<div class="img-box">
-								<img src="img/team/3.jpg" alt="">
+								<img src="app/view/img/team/3.jpg" alt="">
 								<div class="overlay">
 									<div class="box">
 										<div class="content">
@@ -479,7 +405,7 @@
 					<div class="item">
 						<div class="single-team-member">
 							<div class="img-box">
-								<img src="img/team/4.jpg" alt="">
+								<img src="app/view/img/team/4.jpg" alt="">
 								<div class="overlay">
 									<div class="box">
 										<div class="content">
@@ -502,7 +428,7 @@
 					<div class="item">
 						<div class="single-team-member">
 							<div class="img-box">
-								<img src="img/team/1.jpg" alt="">
+								<img src="app/view/img/team/1.jpg" alt="">
 								<div class="overlay">
 									<div class="box">
 										<div class="content">
@@ -525,7 +451,7 @@
 					<div class="item">
 						<div class="single-team-member">
 							<div class="img-box">
-								<img src="img/team/2.jpg" alt="">
+								<img src="app/view/img/team/2.jpg" alt="">
 								<div class="overlay">
 									<div class="box">
 										<div class="content">
@@ -548,7 +474,7 @@
 					<div class="item">
 						<div class="single-team-member">
 							<div class="img-box">
-								<img src="img/team/3.jpg" alt="">
+								<img src="app/view/img/team/3.jpg" alt="">
 								<div class="overlay">
 									<div class="box">
 										<div class="content">
@@ -571,7 +497,7 @@
 					<div class="item">
 						<div class="single-team-member">
 							<div class="img-box">
-								<img src="img/team/4.jpg" alt="">
+								<img src="app/view/img/team/4.jpg" alt="">
 								<div class="overlay">
 									<div class="box">
 										<div class="content">
@@ -738,42 +664,42 @@
 					<div class="clients-carousel owl-carousel owl-theme">
 						<div class="item">
 							<div class="img-box">
-								<img src="img/clients/logo-6.png" alt="">
+								<img src="app/view/img/clients/logo-6.png" alt="">
 							</div>
 						</div>
 						<div class="item">
 							<div class="img-box">
-								<img src="img/clients/logo-7.png" alt="">
+								<img src="app/view/img/clients/logo-7.png" alt="">
 							</div>
 						</div>
 						<div class="item">
 							<div class="img-box">
-								<img src="img/clients/logo-8.png" alt="">
+								<img src="app/view/img/clients/logo-8.png" alt="">
 							</div>
 						</div>
 						<div class="item">
 							<div class="img-box">
-								<img src="img/clients/logo-9.png" alt="">
+								<img src="app/view/img/clients/logo-9.png" alt="">
 							</div>
 						</div>
 						<div class="item">
 							<div class="img-box">
-								<img src="img/clients/logo-10.png" alt="">
+								<img src="app/view/img/clients/logo-10.png" alt="">
 							</div>
 						</div>
 						<div class="item">
 							<div class="img-box">
-								<img src="img/clients/logo-7.png" alt="">
+								<img src="app/view/img/clients/logo-7.png" alt="">
 							</div>
 						</div>
 						<div class="item">
 							<div class="img-box">
-								<img src="img/clients/logo-7.png" alt="">
+								<img src="app/view/img/clients/logo-7.png" alt="">
 							</div>
 						</div>
 						<div class="item">
 							<div class="img-box">
-								<img src="img/clients/logo-10.png" alt="">
+								<img src="app/view/img/clients/logo-10.png" alt="">
 							</div>
 						</div>
 					</div>
@@ -783,7 +709,7 @@
 	</section>
 	
 	<?php 
-  import('app/view/footer');
+  import('app/view/components/footer');
   ?>
 
 
@@ -791,5 +717,5 @@
 
 </body>
 
-<!-- Mirrored from hasan.themexlab.com/new/charity-home-html/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 13 Nov 2023 11:49:59 GMT -->
+
 </html>
