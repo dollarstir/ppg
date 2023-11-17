@@ -43,21 +43,39 @@ $router = new Router([
     ),
 
     new Route(
-        '/wallet',
+        '/volunteer',
         function ($context) {
            
-            return Viewer::view('app/view/wallet.php', $context);
+            return Viewer::view('app/view/volunteer-style-one.php', $context);
         }
     ),  
 
 
     new Route(
-        '/settings',
+        '/gallery',
         function ($context) {
            
-            return Viewer::view('app/view/settings.php', $context);
+            return Viewer::view('app/view/gallery-style-one.php', $context);
         }
     ),
+
+
+    new Route(
+        '/contactus',
+        function ($context) {
+           
+            return Viewer::view('app/view/contact.php', $context);
+        }
+    ),
+
+    new Route(
+        '/events',
+        function ($context) {
+           
+            return Viewer::view('app/view/events-grid.php', $context);
+        }
+    ),
+
 
 
      // SIDE BAR ROUTTES ******************************************************

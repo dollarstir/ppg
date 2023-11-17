@@ -6,46 +6,25 @@
                     <li><a href="home">Home</a></li>
 						<li><a href="about">About</a></li>						
 						<li class=""><a href="causes">Causes</a></li>						
-						<li class="dropdown">
-							<a href="#">Events</a>
-							<ul class="submenu">
-								<li><a href="events-grid.html">Events Grid</a></li>
-								<li><a href="events-list.html">Events List</a></li>
-								<li><a href="events-single.html">Event Single</a></li>
-							</ul>
-						</li>
-						<li class="dropdown">
-							<a href="#">Volunteer</a>
-							<ul class="submenu">
-								<li><a href="volunteer-style-one.html">Volunteer Style One</a></li>
-								<li><a href="volunteer-style-two.html">Volunteer Style Two</a></li>
-								<li><a href="volunteer-profile.html">Volunteer Profile</a></li>
-							</ul>
-						</li>
-						<li class="dropdown">
-							<a href="#">Gallery</a>
-							<ul class="submenu">
-								<li><a href="gallery-style-one.html">Gallery Style One</a></li>
-								<li><a href="gallery-style-two.html">Gallery Style Two</a></li>
-								<li><a href="gallery-style-three.html">Gallery Style Three</a></li>
-							</ul>
-						</li>
-						<li class="dropdown">
+						<li class=""><a href="events">Events</a></li>
+						<li class=""><a href="volunteer">Volunteer</a></li>
+						<li class=""><a href="gallery">Gallery</a></li>
+						<!-- <li class="dropdown">
 							<a href="#">Pages</a>
 							<ul class="submenu">
 								<li><a href="donations.html">Donation</a></li>
 								<li><a href="faq.html">FAQ</a></li>
 							</ul>
-						</li>
-						<li class="dropdown">
+						</li> -->
+						<!-- <li class="dropdown">
 							<a href="#">Blog</a>
 							<ul class="submenu">
 								<li><a href="blog-style-one.html">Blog Style One</a></li>
 								<li><a href="blog-style-two.html">Blog Style Two</a></li>
 								<li><a href="blog-details.html">Blog Details</a></li>
 							</ul>
-						</li>
-						<li><a href="contact.html">Contact</a></li>
+						</li> -->
+						<li><a href="contactus">Contact</a></li>
 					</ul>
 				</div>
 				<div class="nav-footer">

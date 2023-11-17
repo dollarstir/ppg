@@ -4,7 +4,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Passion Planet Ghana || Charity and Donation HTML5 Template</title>
+	<title>Passion Planet Ghana || We Care, We Share, We Grow.</title>
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">

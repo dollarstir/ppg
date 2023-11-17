@@ -10,7 +10,7 @@ function involve($file)
 }
 
 
-function import($file)
+function import($file,$context=[])
 {
     if (strpos($file, '.php') !== false) {
         return require __DIR__.'/../'.$file;

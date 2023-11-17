@@ -57,8 +57,34 @@
 		<div class="container">
 			<div class="sec-title text-center">
 				<h2>Our Mission</h2>
-				<p>Lorem ipsum is a dummy text it will use for subtitle here</p>
+				<p>To witness a well transformed individuals living with positive mindsets.</p>
 				<span class="decor"><span class="inner"></span></span>
+			</div>
+
+
+			<div class="sec-title text-center">
+				<h2>Our Vision</h2>
+				<p>To inculcate into children the act of positive thinking that will affect generational change through Arts, Sports and Education.</p>
+				<span class="decor"><span class="inner"></span></span>
+			</div>
+
+
+			<div class="sec-title text-center">
+				<h2>Objectives</h2>
+				<p>Our objective is to use our recruited children in Passion Planet Ghana to cause positive change in the society.</p>
+				<span class="decor"><span class="inner"></span></span>
+			</div>
+
+			<div class="sec-title text-center">
+				<h2>Aims</h2>
+				<p> To witness a well transformed individuals.</p>
+				<span class="decor"><span class="inner"></span></span>
+			</div>
+
+			<div class="sec-title text-center">
+				<h2>Departments</h2>
+				<p> </p>
+				<!-- <span class="decor"><span class="inner"></span></span> -->
 			</div>
 			<div class="row">
 				<div class="col-md-4 col-sm-6">
@@ -69,9 +95,9 @@
 							</div>
 						</div>
 						<div class="content">
-							<h3>Charity For Education</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<h3>Passion Soccer Academy</h3>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p> -->
+							<!-- <a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -83,9 +109,9 @@
 							</div>
 						</div>
 						<div class="content">
-							<h3>Feed for hungry child</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<h3>Passion Volley Stars</h3>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p> -->
+							<!-- <a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -97,9 +123,9 @@
 							</div>
 						</div>
 						<div class="content">
-							<h3>Home for homeless</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<h3>Passion Creativity</h3>
+							<p>(Passion Carols, Passion Drama, Passion Choreography and Ensemble Dance) </p>
+							<!-- <a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -111,13 +137,13 @@
 							</div>
 						</div>
 						<div class="content">
-							<h3>Feed for hungry child</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<h3>Passion Farms</h3>
+							<p>(Crops and Animal Farming) </p>
+							<!-- <a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-6">
+				<!-- <div class="col-md-4 col-sm-6">
 					<div class="single-service-home">
 						<div class="icon-box">
 							<div class="inner-box">
@@ -144,7 +170,104 @@
 							<a href="service-details.html">Read More</a>
 						</div>
 					</div>
+				</div> -->
+			</div>
+
+
+
+
+			<!-- serviices  -->
+
+			<div class="sec-title text-center">
+				<h2>Services Rendered to Children</h2>
+				<p> </p>
+				<!-- <span class="decor"><span class="inner"></span></span> -->
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-sm-6">
+					<div class="single-service-home">
+						<div class="icon-box">
+							<div class="inner-box">
+								<i class="flaticon-gesture-1"></i>
+							</div>
+						</div>
+						<div class="content">
+							<h3>Reading & Arithmetic, ICT, General Knowledge.</h3>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p> -->
+							<!-- <a href="service-details.html">Read More</a> -->
+						</div>
+					</div>
 				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="single-service-home">
+						<div class="icon-box">
+							<div class="inner-box">
+								<i class="flaticon-people-1"></i>
+							</div>
+						</div>
+						<div class="content">
+							<h3>Acting and Choreography Dance</h3>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p> -->
+							<!-- <a href="service-details.html">Read More</a> -->
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="single-service-home">
+						<div class="icon-box">
+							<div class="inner-box">
+								<i class="flaticon-hand"></i>
+							</div>
+						</div>
+						<div class="content">
+							<h3>Soccer and Volleyball</h3>
+							<!-- <p>(Passion Carols, Passion Drama, Passion Choreography and Ensemble Dance) </p> -->
+							<!-- <a href="service-details.html">Read More</a> -->
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="single-service-home">
+						<div class="icon-box">
+							<div class="inner-box">
+								<i class="flaticon-people-1"></i>
+							</div>
+						</div>
+						<div class="content">
+							<h3>seminars for children </h3>
+							<p>We organize seminars for children on sanitation and personal hygiene.</p>
+							<!-- <a href="service-details.html">Read More</a> -->
+						</div>
+					</div>
+				</div>
+				<!-- <div class="col-md-4 col-sm-6">
+					<div class="single-service-home">
+						<div class="icon-box">
+							<div class="inner-box">
+								<i class="flaticon-hand"></i>
+							</div>
+						</div>
+						<div class="content">
+							<h3>Home for homeless</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="single-service-home">
+						<div class="icon-box">
+							<div class="inner-box">
+								<i class="flaticon-gesture-1"></i>
+							</div>
+						</div>
+						<div class="content">
+							<h3>Charity For Education</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a>
+						</div>
+					</div>
+				</div> -->
 			</div>
 		</div>
 	</section>
@@ -200,7 +323,7 @@
 	</section>
 
 
-
+<!-- 
 	<section class="sec-padding faq-home">
 		<div class="container">
 			<hr>
@@ -286,10 +409,10 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
-	<section class="fact-counter-wrapper sec-padding parallax-section">
+	<!-- <section class="fact-counter-wrapper sec-padding parallax-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-4">
@@ -321,10 +444,10 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
-	<section class="sec-padding meet-Volunteer">
+	<!-- <section class="sec-padding meet-Volunteer">
 		<div class="container">
 			<div class="sec-title text-left">
 				<h2>Meet Our Volunteers</h2>
@@ -520,10 +643,10 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
-	<section class="sec-padding testimonials-wrapper">
+	<!-- <section class="sec-padding testimonials-wrapper">
 		<div class="container">
 			<div class="sec-title colored text-center">
 				<h2>Testimonials</h2>
@@ -654,10 +777,10 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
-	<section class="bg-color-eee p_40">
+	<!-- <section class="bg-color-eee p_40">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -706,7 +829,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	
 	<?php 
   import('app/view/components/footer');
