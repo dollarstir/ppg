@@ -31,11 +31,11 @@
 					<button><i class="fa fa-bars"></i></button>
 				</div>
 			</div>
-			<div class="search-box pull-right">
+			<!-- <div class="search-box pull-right">
 				<form action="#">
 					<input type="text" placeholder="Search...">
 					<button type="submit"><i class="fa fa-search"></i></button>
 				</form>
-			</div>
+			</div> -->
 		</div>
 	</nav> <!-- /.mainmenu-area -->

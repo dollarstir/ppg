@@ -62,7 +62,7 @@
 					</div>
 					<div class="content">
 						<h3>EMAIL</h3>
-						<p> passionplanetghana1@gmail.com</p>
+						<p> info@passionplanetghana.com</p>
 					</div>
 				</div>
 				<div class="single-header-info">
@@ -73,7 +73,7 @@
 					</div>
 					<div class="content">
 						<h3>Call Now</h3>
-						<p><b>+233(0)200914291</b></p>
+						<p><small>+233(0)200914291</small></p>
 						<!-- <p><b>+233(0)276706496</b></p> -->
 					</div>
 				</div>
