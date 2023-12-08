@@ -180,7 +180,7 @@
 	</section>
 
 
-	<section class="event-feature sec-padding bg-color-fa">
+	<!-- <section class="event-feature sec-padding bg-color-fa">
 		<div class="container">
 			<div class="row">
 	          <div class="col-sm-12 col-md-12 col-lg-6 md-col6-center">
@@ -332,10 +332,10 @@
 	          </div>
 	        </div>
 		</div>
-	</section>
+	</section> -->
 
 
-	<section class="recent-causes sec-padding">
+	<!-- <section class="recent-causes sec-padding">
 		<div class="container">
 			<div class="sec-title text-center">
 				<h2>Recent Causes</h2>
@@ -423,7 +423,7 @@
 	          </div>
 	        </div>
 		</div>
-	</section>
+	</section> -->
 
 
 	<section class="overlay-white sec-padding parallax-section">
@@ -874,7 +874,7 @@
 	</section>
 
 
-	<section class="sec-padding testimonials-wrapper parallax-section">
+	<!-- <section class="sec-padding testimonials-wrapper parallax-section">
 		<div class="container">
 			<div class="sec-title colored text-center">
 				<h2>Testimonials</h2>
@@ -1005,10 +1005,10 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
-	<section class="blog-home sec-padding">
+	<!-- <section class="blog-home sec-padding">
 		<div class="container">
 			<div class="sec-title text-center">
 				<h2>Latest News</h2>
@@ -1122,10 +1122,10 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
-	<section class="bg-color-eee p_40">
+	<!-- <section class="bg-color-eee p_40">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -1175,7 +1175,7 @@
 			</div>
 		</div>
 	</section>
-	
+	 -->
 	<?php  import('app/view/components/footer'); ?>
 
 </body>

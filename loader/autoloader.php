@@ -5,10 +5,10 @@ define('key', 'iamtherealdude');
 define('algorithm', 'HS256');
 define('dbname', 'lottery');
 // online Host******************************************************
-// define('HOST', 'http://www.easyopen1573.com');
+define('HOST', 'http://www.easyopen1573.com');
 
 // offline Host******************************************************
-define('HOST', 'http://192.168.199.120'); 
+// define('HOST', 'http://192.168.199.120'); 
 
 
 
