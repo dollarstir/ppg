@@ -8,3 +8,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 
 # Route requests to index.php and include the original query string
 RewriteRule ^(.*)$ engine.php [QSA,L]
+#SSL Config
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
