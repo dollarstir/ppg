@@ -5,7 +5,7 @@
 					<ul>
                     <li><a href="home">Home</a></li>
 						<li><a href="about">About</a></li>						
-						<li class=""><a href="causes">Causes</a></li>						
+						<!-- <li class=""><a href="causes">Causes</a></li>						 -->
 						<li class=""><a href="events">Events</a></li>
 						<li class=""><a href="volunteer">Volunteer</a></li>
 						<li class=""><a href="gallery">Gallery</a></li>
