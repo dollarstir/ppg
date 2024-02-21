@@ -82,7 +82,7 @@
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						To feed and educate!
+						To Nurture and educate
 				    </div>
 					<div class="tp-caption sfr tp-resizeme thm-banner-h1 heavy black-bg" 
 				        data-x="left" data-hoffset="0" 
@@ -102,7 +102,7 @@
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="1500">
-						Became a part to change the world
+						Become a part to change the world
 				    </div>
 					<div class="tp-caption sfl tp-resizeme" 
 				        data-x="left" data-hoffset="0" 
@@ -142,7 +142,7 @@
 						</div>
 						<div class="content-box">
 							<h3>Donation</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p> -->
 							<a href="#" class="thm-btn inverse">Donate Now</a>
 						</div>
 					</div>
@@ -156,7 +156,7 @@
 						</div>
 						<div class="content-box">
 							<h3>Volunteer</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p> -->
 							<a href="#" class="thm-btn inverse">Join Now</a>
 						</div>
 					</div>
@@ -170,7 +170,7 @@
 						</div>
 						<div class="content-box">
 							<h3>Fundraise</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p> -->
 							<a href="#" class="thm-btn inverse">Read More</a>
 						</div>
 					</div>
