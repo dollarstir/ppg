@@ -430,13 +430,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 promote-project text-center">
-					<h3>Save Children From Hunger</h3>
+					<h3>Help to nurture and educate now</h3>
 					<div class="sec-title colored text-center">
 						<span class="decor">
 							<span class="inner"></span>
 						</span>
 					</div>
-					<h2>Become a part of the world lorem ipsum</h2>
+					<h2>Every effort you make count</h2>
 					<p>we exist to inculcate into children the act of positive thinking that will affect generational change through arts, sports and education.</p>
 					<a href="#" class="thm-btn">Donate Now</a>
                     <!-- <a href="#" class="thm-btn inverse">Read More</a> -->
@@ -543,7 +543,7 @@
 		<div class="container">
 			<div class="sec-title text-center">
 				<h2>Our Mission</h2>
-				<!-- <p>Lorem ipsum is a dummy text it will use for subtitle here</p> -->
+				<p>to witness a well transformed individual living with positive mindset.</p>
 				<span class="decor"><span class="inner"></span></span>
 			</div>
 			<div class="row">
