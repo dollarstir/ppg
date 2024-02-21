@@ -130,7 +130,7 @@
 				<div class="col-md-3">
 					<div class="single-team-member mb_60">
 						<div class="img-box">
-							<img class="full-width" style="height:350px;" src="app/view/img/team/3.jpg" alt="">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/8.jpg" alt="">
 							<div class="overlay">
 								<div class="box">
 									<div class="content">
@@ -144,16 +144,16 @@
 								</div>
 							</div>
 						</div>
-						<h3>Mr. Evans Abieku Amoaful </h3>						
-						<span>Director of Activities </span>
-						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-						<a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+						<h3>Mrs Nancy Santellan </h3>						
+						<!-- <span>Director of Activities </span> -->
+						<p>Mrs Nancy Santellan, an American and a librarian who helped Passion Planet Ghana to get reading books. Very beautiful and generous</p>
+						<!-- <a href="volunteer-profile.html" class="thm-btn">View Profile</a>  -->
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="single-team-member mb_60">
 						<div class="img-box">
-							<img class="full-width" style="height:350px;" src="app/view/img/team/4.jpg" alt="">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/9.jpg" alt="">
 							<div class="overlay">
 								<div class="box">
 									<div class="content">
@@ -167,33 +167,10 @@
 								</div>
 							</div>
 						</div>
-						<h3> Mrs. Benedicta Serwonu Akado</h3>
-						<span>Ambassador</span>
-						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-						<a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="single-team-member mb_60">
-						<div class="img-box">
-							<img class="full-width" style="height:350px;" src="app/view/img/team/2.jpg" alt="">
-							<div class="overlay">
-								<div class="box">
-									<div class="content">
-										<ul>
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-						<h3>Mr Isaac Yamoah Asante</h3>
-						<span>Transport Manager</span>
-						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-						<a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+						<h3> Meet Mrs Lorraine Crawley Giarraffa</h3>
+						<!-- <span>Ambassador</span> -->
+						<p>Mrs Lorraine Crawley Giarraffa is a nurse administrator and American. She helped us to make our 2022 end of year party a memory. She's beautiful and very kind.</p>
+						<!-- <a href="volunteer-profile.html" class="thm-btn">View Profile</a>  -->
 					</div>
 				</div>
 				
