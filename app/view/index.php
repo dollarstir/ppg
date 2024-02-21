@@ -529,7 +529,7 @@
 			<div class="row">
 				<div class="col-md-9 sm-text-center">
 					<h3>View our project gallery</h3>
-					<!-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have lorem</p> -->
+					<p>to witness a well transformed individuals</p>
 				</div>
 				<div class="col-md-3 text-right sm-text-center">
 					<a href="gallery" class="thm-btn inverse m-tops15">View Full Gallery</a>
@@ -597,9 +597,9 @@
 							</div>
 						</div>
 						<div class="content">
-							<h3>Feed for hungry child</h3>
-							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a> -->
+							<h3>Charity for talent nurturing</h3>
+							 <p>We exist to help children develop, position and nurture to change other children in the societies</p>
+							<!--<a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -611,9 +611,9 @@
 							</div>
 						</div>
 						<div class="content">
-							<h3>Home for homeless</h3>
-							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a> -->
+							<h3>Charity for education</h3>
+							<p>We seek to witness a well transformed individuals living with <br>positive mindsets through creativity, seminars, reading, arithmetics, ICT, general knowledge etc.. </p>
+							<!--<a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -625,9 +625,9 @@
 							</div>
 						</div>
 						<div class="content">
-							<h3>Charity For Education</h3>
-							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a> -->
+							<h3>Talent Scouting</h3>
+							 <p>We meet and shortlist children with special talents and needs through arts, sports and education. </p>
+							<!--<a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -636,7 +636,7 @@
 	</section>
 
 
-	<section class="fact-counter-wrapper sec-padding parallax-section">
+	<!-- <section class="fact-counter-wrapper sec-padding parallax-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12 md-text-center">
@@ -668,7 +668,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
 	<section class="sec-padding meet-Volunteer pb_30">
