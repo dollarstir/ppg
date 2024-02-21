@@ -74,6 +74,12 @@
 
 
 			<div class="sec-title text-center">
+				<h2>Meet Our Patrons</h2>
+				<span class="decor"><span class="inner"></span></span>
+			</div>
+
+
+			<div class="sec-title text-center">
 				<h2>Our Vision</h2>
 				<p>To inculcate into children the act of positive thinking that will affect generational change through Arts, Sports and Education.</p>
 				<span class="decor"><span class="inner"></span></span>
