@@ -400,7 +400,7 @@
 						</div>
 						<div class="content-box">
 							<h3>Donation</h3>
-							<p>There are many variations of lorem passagei of Lorem Ipsum availabl </p>
+							<!-- <p>There are many variations of lorem passagei of Lorem Ipsum availabl </p> -->
 							<a href="#" class="thm-btn inverse">Donate Now</a>
 						</div>
 					</div>
@@ -414,7 +414,7 @@
 						</div>
 						<div class="content-box">
 							<h3>Volunteer</h3>
-							<p>There are many variations of lorem passagei of Lorem Ipsum availabl </p>
+							<!-- <p>There are many variations of lorem passagei of Lorem Ipsum availabl </p> -->
 							<a href="#" class="thm-btn inverse">Join Now</a>
 						</div>
 					</div>
@@ -428,7 +428,7 @@
 						</div>
 						<div class="content-box">
 							<h3>Fundraise</h3>
-							<p>There are many variations of lorem passagei of Lorem Ipsum availabl </p>
+							<!-- <p>There are many variations of lorem passagei of Lorem Ipsum availabl </p> -->
 							<a href="#" class="thm-btn inverse">Read More</a>
 						</div>
 					</div>
