@@ -19,7 +19,7 @@
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						To feed and educate!
+						To Nurture and educate!
 				    </div>
 					<div class="tp-caption sfr tp-resizeme thm-banner-h1 heavy" 
 				        data-x="left" data-hoffset="0" 
@@ -49,7 +49,7 @@
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="2000">
-						Our Company has a long tradition of charitable giving and <br> philanthropy. Lorem ipsum dolor sit amet.
+						<!-- Our Company has a long tradition of charitable giving and <br> philanthropy. Lorem ipsum dolor sit amet. -->
 				    </div>
 					<div class="tp-caption sfl tp-resizeme" 
 				        data-x="left" data-hoffset="0" 
@@ -543,7 +543,7 @@
 		<div class="container">
 			<div class="sec-title text-center">
 				<h2>Our Mission</h2>
-				<p>Lorem ipsum is a dummy text it will use for subtitle here</p>
+				<!-- <p>Lorem ipsum is a dummy text it will use for subtitle here</p> -->
 				<span class="decor"><span class="inner"></span></span>
 			</div>
 			<div class="row">
@@ -556,8 +556,8 @@
 						</div>
 						<div class="content">
 							<h3>Charity For Education</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p> -->
+							<!-- <a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -570,8 +570,8 @@
 						</div>
 						<div class="content">
 							<h3>Feed for hungry child</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -584,8 +584,8 @@
 						</div>
 						<div class="content">
 							<h3>Home for homeless</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -598,8 +598,8 @@
 						</div>
 						<div class="content">
 							<h3>Feed for hungry child</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -612,8 +612,8 @@
 						</div>
 						<div class="content">
 							<h3>Home for homeless</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
@@ -626,8 +626,8 @@
 						</div>
 						<div class="content">
 							<h3>Charity For Education</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
-							<a href="service-details.html">Read More</a>
+							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a> -->
 						</div>
 					</div>
 				</div>
