@@ -671,204 +671,125 @@
 	</section>
 
 
-	<section class="sec-padding meet-Volunteer">
+	<section class="sec-padding meet-Volunteer pb_30">
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-10">
-					<div class="sec-title text-left">
-						<h2>Meet Our Volunteers</h2>
-						<p>Lorem ipsum is a dummy text it will use for subtitle here</p>
-						<span class="decor"><span class="inner"></span></span>
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/1.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3>Mr. Bismark Kofi Akyer Kwofie </h3>
+						<span>Coordinator</span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p> -->
+						<!-- <a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
 					</div>
 				</div>
-			</div>
-			<div class="clearfix">
-				<div class="team-carousel owl-carousel owl-theme">
-					<div class="item">
-						<div class="single-team-member">
-							<div class="img-box">
-								<img src="app/view/img/team/1.jpg" alt="">
-								<div class="overlay">
-									<div class="box">
-										<div class="content">
-											<ul>
-												<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-												<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-												<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											</ul>
-										</div>
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/5.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
 									</div>
 								</div>
 							</div>
-							<h3>Muhibbur Rashid</h3>
-							<span>Businessman</span>
-							<p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-							<a href="volunteer-profile.html" class="thm-btn">View Profile</a>
 						</div>
-					</div>
-					<div class="item">
-						<div class="single-team-member">
-							<div class="img-box">
-								<img src="app/view/img/team/2.jpg" alt="">
-								<div class="overlay">
-									<div class="box">
-										<div class="content">
-											<ul>
-												<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-												<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-												<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<h3>Rashed Kabir</h3>						
-							<span>Businessman</span>
-							<p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-							<a href="volunteer-profile.html" class="thm-btn">View Profile</a>
-						</div>
-					</div>
-					<div class="item">
-						<div class="single-team-member">
-							<div class="img-box">
-								<img src="app/view/img/team/3.jpg" alt="">
-								<div class="overlay">
-									<div class="box">
-										<div class="content">
-											<ul>
-												<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-												<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-												<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<h3>Jannatul Ferdous</h3>						
-							<span>Businessman</span>
-							<p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-							<a href="volunteer-profile.html" class="thm-btn">View Profile</a>
-						</div>
-					</div>
-					<div class="item">
-						<div class="single-team-member">
-							<div class="img-box">
-								<img src="app/view/img/team/4.jpg" alt="">
-								<div class="overlay">
-									<div class="box">
-										<div class="content">
-											<ul>
-												<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-												<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-												<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<h3>Ashikur Rahman</h3>
-							<span>Businessman</span>
-							<p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-							<a href="volunteer-profile.html" class="thm-btn">View Profile</a>
-						</div>
-					</div>
-					<div class="item">
-						<div class="single-team-member">
-							<div class="img-box">
-								<img src="app/view/img/team/1.jpg" alt="">
-								<div class="overlay">
-									<div class="box">
-										<div class="content">
-											<ul>
-												<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-												<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-												<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<h3>Muhibbur Rashid</h3>
-							<span>Businessman</span>
-							<p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-							<a href="volunteer-profile.html" class="thm-btn">View Profile</a>
-						</div>
-					</div>
-					<div class="item">
-						<div class="single-team-member">
-							<div class="img-box">
-								<img src="app/view/img/team/2.jpg" alt="">
-								<div class="overlay">
-									<div class="box">
-										<div class="content">
-											<ul>
-												<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-												<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-												<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<h3>Rashed Kabir</h3>						
-							<span>Businessman</span>
-							<p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-							<a href="volunteer-profile.html" class="thm-btn">View Profile</a>
-						</div>
-					</div>
-					<div class="item">
-						<div class="single-team-member">
-							<div class="img-box">
-								<img src="app/view/img/team/3.jpg" alt="">
-								<div class="overlay">
-									<div class="box">
-										<div class="content">
-											<ul>
-												<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-												<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-												<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<h3>Jannatul Ferdous</h3>						
-							<span>Businessman</span>
-							<p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-							<a href="volunteer-profile.html" class="thm-btn">View Profile</a>
-						</div>
-					</div>
-					<div class="item">
-						<div class="single-team-member">
-							<div class="img-box">
-								<img src="app/view/img/team/4.jpg" alt="">
-								<div class="overlay">
-									<div class="box">
-										<div class="content">
-											<ul>
-												<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-												<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-												<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<h3>Ashikur Rahman</h3>
-							<span>Businessman</span>
-							<p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
-							<a href="volunteer-profile.html" class="thm-btn">View Profile</a>
-						</div>
+						<h3>Mr. Emmanuel Mensah Kwofie</h3>						
+						<span>Secretary</span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p> -->
+						<!-- <a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
 					</div>
 				</div>
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/3.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3>Mr. Evans Abieku Amoaful </h3>						
+						<span>Director of Activities </span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
+						<a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/4.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3> Mrs. Benedicta Serwonu Akado</h3>
+						<span>Ambassador</span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
+						<a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/2.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3>Mr Isaac Yamoah Asante</h3>
+						<span>Transport Manager</span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
+						<a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+					</div>
+				</div>
+				
 			</div>
 		</div>
 	</section>
