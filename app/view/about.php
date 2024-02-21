@@ -37,7 +37,7 @@
 						<br>
 						<p>Passion Planet Ghana (PPG) is a non-governmental community organization with generational initiatives to help nurture talented and gifted children. We also help these children to develop, position, nurture so as to change other children in the societies.</p>
 						<br>
-						<p>We started the organization in May, 2021 at Gomoa Potsin with some children who usually come for help with their homework.</p>
+						<p>We started the organization in May, 2021 at Gomoa Potsin with some children who usually come for help with their homework,so we decided to  gather them and help nurture them for the community. Whilst doing that, we saw the need to extend it to other places so we opened the next branch in Ekumfi.</p>
 						<br>
 						<p>Though Passion Planet Ghana has been our very important vision, we lacked resources for the organization until we had Mr Michael O'Neil and his beautiful wife Marysa O'Neil who admitted to support us. They helped us to get items like tables and chairs,reading books,soccer balls,soccer Jerseys,exercise books,pencils,pens etc.
 							These items were very helpful because we needed them most at that time.
@@ -55,6 +55,14 @@
 
 	<section class="home-serivce sec-padding">
 		<div class="container">
+
+			<div class="sec-title text-center">
+				<h2>MEANING OF SYMBOLS AND COLOURS</h2>
+				<p>To witness a well transformed individuals living with positive mindsets.</p>
+				<span class="decor"><span class="inner"></span></span>
+			</div>
+
+
 			<div class="sec-title text-center">
 				<h2>Our Mission</h2>
 				<p>To witness a well transformed individuals living with positive mindsets.</p>
