@@ -528,8 +528,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-9 sm-text-center">
-					<h3>Here will be any kind lorem ipsum heading</h3>
-					<p>There are many variations of passages of Lorem Ipsum available, but the majority have lorem</p>
+					<h3>View our project gallery</h3>
+					<!-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have lorem</p> -->
 				</div>
 				<div class="col-md-3 text-right sm-text-center">
 					<a href="#" class="thm-btn inverse m-tops15">View Full Gallery</a>
