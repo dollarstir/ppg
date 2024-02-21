@@ -81,7 +81,7 @@
 
 	<section class="footer-bottom">
 		<div class="container text-center">
-			<p>Theme Created By <a href="#">TEMPLATE PATH</a> with love</p>
+			<p>Created By <a href="https://github.com/dollarstir">Dollarsoft/a> with love</p>
 		</div>
 	</section>
 
