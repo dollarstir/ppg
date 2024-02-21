@@ -657,6 +657,18 @@
 		</div>
 	</section> -->
 
+	<section class="inner-header">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 sec-title colored text-center">
+					<h2> Meet our volunteers</h2>
+					<p>Our team seek to work with professionalism to support PPG focus in it's vision to achieve the dream</p>
+					<span class="decor"><span class="inner"></span></span>
+				</div>
+			</div>
+		</div>
+	</section>
+
 
 	<section class="sec-padding meet-Volunteer pb_30">
 		<div class="container">
