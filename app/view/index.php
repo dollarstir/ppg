@@ -436,10 +436,10 @@
 							<span class="inner"></span>
 						</span>
 					</div>
-					<h2>Became a part of the world lorem ipsum</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore. Amido ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore.Lorem ipsum dolor sit amet, consectetur.</p>
+					<h2>Become a part of the world lorem ipsum</h2>
+					<p>we exist to inculcate into children the act of positive thinking that will affect generational change through arts, sports and education.</p>
 					<a href="#" class="thm-btn">Donate Now</a>
-                    <a href="#" class="thm-btn inverse">Read More</a>
+                    <!-- <a href="#" class="thm-btn inverse">Read More</a> -->
 				</div>
 			</div>
 		</div>
@@ -450,7 +450,7 @@
     	<div class="auto-container">
 			<div class="sec-title text-center">
 				<h2>Our Gallery</h2>
-				<p>Lorem ipsum is a dummy text it will use for subtitle here</p>
+				<p>To witness a well transformed individuals</p>
 				<span class="decor"><span class="inner"></span></span>
 			</div>
         </div>
@@ -532,7 +532,7 @@
 					<!-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have lorem</p> -->
 				</div>
 				<div class="col-md-3 text-right sm-text-center">
-					<a href="#" class="thm-btn inverse m-tops15">View Full Gallery</a>
+					<a href="gallery" class="thm-btn inverse m-tops15">View Full Gallery</a>
 				</div>
 			</div>
 		</div>

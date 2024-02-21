@@ -6,7 +6,7 @@
 						<a href="#">
 							<img src="app/view/img/resources/footer-logo.png" alt="Awesome Image"/>
 						</a>
-						<p>Lorem ipsum dolor sit amet, eu me evert laboramus, iudico </p>
+						<p>We Share, We Care, We Grow.</p>
 						<ul class="contact">
 							<li><i class="fa fa-map-marker"></i> <span>60 Grant Ave. Carteret NJ 0708</span></li>
 							<li><i class="fa fa-phone"></i> <span>(880) 1723801729</span></li>
@@ -25,17 +25,17 @@
 					<div class="footer-widget quick-links">
 						<h3 class="title">Pages</h3>
 						<ul>
-							<li><a href="about.html">About Us</a></li>
+							<li><a href="about">About Us</a></li>
 							<li><a href="causes-grid.html">Causes</a></li>
-							<li><a href="events-grid.html">Events</a></li>
-							<li><a href="faq.html">Faq</a></li>
-							<li><a href="blog-style-two.html">Archives</a></li>
+							<li><a href="events">Events</a></li>
+							<li><a href="volunteer">Volunteer</a></li>
+							<!-- <li><a href="blog-style-two.html">Archives</a></li>
 							<li><a href="blog-style-one.html">News</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="contact.html">Contact</a></li> -->
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-3 latest-post col-sm-6">
+				<!-- <div class="col-md-3 latest-post col-sm-6">
 					<div class="footer-widget latest-post">
 						<h3 class="title">Latest News</h3>
 						<ul>
@@ -62,7 +62,7 @@
 							</li>
 						</ul>
 					</div>
-				</div>
+				</div> -->
 				<div class="col-md-4 col-sm-6">
 					<div class="footer-widget contact-widget">
 						<h3 class="title">Contact Form</h3>
