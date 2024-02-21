@@ -84,7 +84,7 @@
 				<div class="col-md-3">
 					<div class="single-team-member mb_60">
 						<div class="img-box">
-							<img class="full-width" style="height:350px;" src="app/view/img/team/1.jpg" alt="">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/6.jpg" alt="">
 							<div class="overlay">
 								<div class="box">
 									<div class="content">
@@ -98,16 +98,16 @@
 								</div>
 							</div>
 						</div>
-						<h3>Mr. Bismark Kofi Akyer Kwofie </h3>
-						<span>Coordinator</span>
-						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p> -->
+						<h3>Mr. Michael O'Neill </h3>
+						<!-- <span>Coordinator</span> -->
+						<p>Mr. Michael O'Neil is a Co-founder of Passion Planet Ghana. Our hardworking coordinator, Mr. Bismark Kofi Akyer Kwofie started the organization with him. He has been helping PPG with finances and other may. He is a Stoke Broker in America.</p>
 						<!-- <a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="single-team-member mb_60">
 						<div class="img-box">
-							<img class="full-width" style="height:350px;" src="app/view/img/team/5.jpg" alt="">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/7.jpg" alt="">
 							<div class="overlay">
 								<div class="box">
 									<div class="content">
@@ -121,9 +121,9 @@
 								</div>
 							</div>
 						</div>
-						<h3>Mr. Emmanuel Mensah Kwofie</h3>						
-						<span>Secretary</span>
-						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p> -->
+						<h3> Mr. Enoch Abankwah</h3>						
+						<!-- <span>Secretary</span> -->
+						<p> Mr. Enoch Abankwah has also been helping PPG and being an advisory pillar to PPG, his constant direction has really helped and shaped us till this for. We love you Sir.</p>
 						<!-- <a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
 					</div>
 				</div>
