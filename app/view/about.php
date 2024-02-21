@@ -58,7 +58,7 @@
 
 			<div class="sec-title text-center">
 				<h2>MEANING OF SYMBOLS AND COLOURS</h2>
-				<p>To witness a well transformed individuals living with positive mindsets.</p>
+				<p><strong>1st Ring</strong><br>Red represents the first colour on the Ghana flag which stands for the blood our forefathers shed all in the fight for peace for Ghana, Africa and the World.</p>
 				<span class="decor"><span class="inner"></span></span>
 			</div>
 
