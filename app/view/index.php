@@ -547,20 +547,7 @@
 				<span class="decor"><span class="inner"></span></span>
 			</div>
 			<div class="row">
-				<div class="col-md-4 col-sm-6">
-					<div class="single-service-home">
-						<div class="icon-box">
-							<div class="inner-box">
-								<i class="flaticon-gesture-1"></i>
-							</div>
-						</div>
-						<div class="content">
-							<h3>Charity For Education</h3>
-							<!-- <p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p> -->
-							<!-- <a href="service-details.html">Read More</a> -->
-						</div>
-					</div>
-				</div>
+				
 				<div class="col-md-4 col-sm-6">
 					<div class="single-service-home">
 						<div class="icon-box">
