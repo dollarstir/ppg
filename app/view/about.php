@@ -59,7 +59,10 @@
 			<div class="sec-title text-center">
 				<h2>MEANING OF SYMBOLS AND COLOURS</h2>
 				<p><strong>1st Ring</strong><br>Red represents the first colour on the Ghana flag which stands for the blood our forefathers shed all in the fight for peace for Ghana,<br> Africa and the World.</p>
-				<span class="decor"><span class="inner"></span></span>
+				<p><strong>2nd Ring</strong>Yellow represents the second colour on the Ghana flag which stands for the natural wealth NATURE gave us to use to develop Ghana, Africa and the World.</p>
+				<p><strong>3rd Ring</strong>Green represents the third colour on the Ghana flag which stands for the greenish environment suppose to give us Agriculture and good breath.</p>
+				<p><strong>Seven Stars</strong>The seven stars represents each day of the week.</p>
+				<p><strong>Violet Background</strong>Violet symbolizes creativity, wisdom, sensitivity, spirituality. It inspires, motivates, balances and uplifts.</p>
 			</div>
 
 
