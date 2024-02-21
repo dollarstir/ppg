@@ -78,6 +78,127 @@
 				<span class="decor"><span class="inner"></span></span>
 			</div>
 
+			<!-- patrons  -->
+
+			<div class="row">
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/1.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3>Mr. Bismark Kofi Akyer Kwofie </h3>
+						<span>Coordinator</span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p> -->
+						<!-- <a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/5.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3>Mr. Emmanuel Mensah Kwofie</h3>						
+						<span>Secretary</span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p> -->
+						<!-- <a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/3.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3>Mr. Evans Abieku Amoaful </h3>						
+						<span>Director of Activities </span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
+						<a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/4.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3> Mrs. Benedicta Serwonu Akado</h3>
+						<span>Ambassador</span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
+						<a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="single-team-member mb_60">
+						<div class="img-box">
+							<img class="full-width" style="height:350px;" src="app/view/img/team/2.jpg" alt="">
+							<div class="overlay">
+								<div class="box">
+									<div class="content">
+										<ul>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<h3>Mr Isaac Yamoah Asante</h3>
+						<span>Transport Manager</span>
+						<!-- <p>Lorem ipsum dolor sit amet, sea dolor essent nostrud no, pro no vidit aterum mediocritatem.</p>
+						<a href="volunteer-profile.html" class="thm-btn">View Profile</a> -->
+					</div>
+				</div>
+				
+			</div>
+
 
 			<div class="sec-title text-center">
 				<h2>Our Vision</h2>
